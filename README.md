@@ -34,7 +34,7 @@ This dataset contains images created using neural style transfer techniques. [Ex
 
 ### Test Input
 
-![Alt Text]((https://github.com/satyaprakash009/satya-prakash/blob/main/output_images/a_raw_1.png)
+![Alt Text](https://github.com/satyaprakash009/satya-prakash/blob/main/output_images/a_raw_1.png)
 
 ### Test Outputs
 
