@@ -6,8 +6,7 @@ This repository contains code for neural style transfer using PyTorch.
 
 ## Overview
 
-Neural style transfer is an optimization technique used to take two images — a content image and a style reference image — and blend them together in such a way that the output image looks like the content image, but "painted" in the style of the style reference image.
-
+Neural style transfer is an optimization method employed to merge two images: a content image and a style reference image. The objective is to create an output image that mirrors the content of the initial image while adopting the artistic style conveyed by the style reference image. In essence, it transforms the content image to appear as though it has been artistically painted in the distinctive style of the provided reference image.
 ## Getting Started
 
 ### Libraries
